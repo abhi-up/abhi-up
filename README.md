@@ -3,7 +3,6 @@
 </div>
 
 👩🏻‍💻 Web Developer sharing about my journey and learnings in tech<br/>
-👩🏻‍🎓 Studied [Computer Science] at AKTU, India<br/>
 🚀 Proficient in Frontend Web Development<br/>
 💭 Currently learning about backend web development and databases<br/>
 
