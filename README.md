@@ -1,5 +1,5 @@
-<div align="center">
-   <h1>Hi there, I'm Abhishek <img src="https://media.giphy.com/media/hvRJCLFzcasrR4ia7z/giphy.gif" width="25px"> </h1>   
+<!-- <div align="center">
+   <h1>Hi there, I'm Abhishek <img src="https://media.giphy.com/media/hvRJCLFzcasrR4ia7z/giphy.gif" width="25px"> </h1>
 </div>
 
 👩🏻‍💻 Web Developer sharing about my journey and learnings in tech<br/>
@@ -27,4 +27,29 @@
 </p>
 <p align="center">Made with ❤️ in Bharat</p>
 
-<h2 align='center'>⚡️<i>Stay awesome!</i>⚡️</h2>
+<h2 align='center'>⚡️<i>Stay awesome!</i>⚡️</h2> -->
+
+# Hi there! 👋
+
+Welcome to my GitHub profile! I'm Abhishek Upadhyay, a passionate web developer with expertise in front-end development. Here, you'll find a collection of my projects and experiments.
+
+## About Me
+
+I love building web applications that are not only functional but also aesthetically pleasing. My journey in web development started when I was in my second year of my B.Tech- CSE Course. Since then, I've been exploring new technologies, frameworks, and best practices to enhance my skills and deliver high-quality projects.
+
+## My Tech Stack
+
+- **Front-end:** HTML, CSS, JavaScript, React.js
+- **Back-end:** Node.js, Express.js
+- **Databases:** MongoDB
+- **Other:** Git, RESTful APIs, Sass
+
+## Get in Touch
+
+- LinkedIn: https://www.linkedin.com/in/meabhi1512/
+- Portfolio: https://abhishek-portfolio69.netlify.app/
+- Email: meabhishek1512@gmail.com
+
+Feel free to explore my repositories and reach out if you have any questions, collaboration ideas, or just want to chat about web development!
+
+Happy coding! 🚀
