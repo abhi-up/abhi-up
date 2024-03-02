@@ -29,9 +29,9 @@
 
 <h2 align='center'>⚡️<i>Stay awesome!</i>⚡️</h2> -->
 
-# Hi there! 👋
+# Hi there! <img src="https://media.giphy.com/media/hvRJCLFzcasrR4ia7z/giphy.gif" width="25px">
 
-Welcome to my GitHub profile! I'm Abhishek Upadhyay, a passionate web developer with expertise in front-end development. Here, you'll find a collection of my projects and experiments.
+Welcome to my GitHub profile! I'm Abhishek Upadhyay, a passionate web developer with expertise in fullstack web development. Here, you'll find a collection of my projects and experiments.
 
 ## About Me
 
@@ -40,7 +40,7 @@ I love building web applications that are not only functional but also aesthetic
 ## My Tech Stack
 
 - **Front-end:** HTML, CSS, JavaScript, React.js
-- **Back-end:** Node.js, Express.js
+- **Back-end:** Node.js, Express.js, Zod, Mongoose, JWT
 - **Databases:** MongoDB
 - **Other:** Git, RESTful APIs, Sass
 
