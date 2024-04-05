@@ -47,7 +47,7 @@ I love building web applications that are not only functional but also aesthetic
 ## Get in Touch
 
 - LinkedIn: https://www.linkedin.com/in/meabhi1512/
-- Portfolio: https://abhishek-portfolio69.netlify.app/
+- Portfolio: [abhishek_portfolio](https://abhi-port-devz.vercel.app/)
 - Email: meabhishek1512@gmail.com
 
 Feel free to explore my repositories and reach out if you have any questions, collaboration ideas, or just want to chat about web development!
