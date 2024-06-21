@@ -2,9 +2,11 @@
    <h1>Hi there, I'm Abhishek <img src="https://media.giphy.com/media/hvRJCLFzcasrR4ia7z/giphy.gif" width="25px"> </h1>
 </div>
 
+🧑‍🎓 B.Tech CSE Graduate
 👩🏻‍💻 Web Developer sharing about my journey and learnings in tech<br/>
 🚀 Proficient in Frontend Web Development<br/>
 💭 Currently learning about backend web development and databases<br/>
+
 
 ### - Languages and Tools...
 
