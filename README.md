@@ -8,16 +8,18 @@ I love building web applications that are not only functional but also aesthetic
 
 ## My Tech Stack
 
-- **Front-end:** HTML, CSS, JavaScript, React.js
-- **Back-end:** Node.js, Express.js, Zod, Mongoose, JWT
-- **Databases:** MongoDB
-- **Other:** Git, RESTful APIs, Sass
+- **Programming Languages:** Java, Python, C, JavaScript
+- **Web Technologies:** HTML 5, CSS 3, React, Redux Toolkit, Node, Express, Tailwind CSS, Bootstrap
+- **Database:** SQL, MySQl, MongoDB
+- **Tools:** Git, GitHub, VS Code, MS-Office, Firebase, Open AI GPT, REST APIs
+- **Deployment Platforms:** Render, Vercel, Netlify
+- **Soft Skills:** Problem-solving, Teamwork, Communication, Time management
 
 ## Get in Touch
 
-- LinkedIn: https://www.linkedin.com/in/meabhi1512/
-- Portfolio: [abhishek_portfolio](https://abhi-port-devz.vercel.app/)
-- Email: meabhishek1512@gmail.com
+- **LinkedIn:** https://www.linkedin.com/in/meabhi1512/
+- **Portfolio:** [abhishek_portfolio](https://upadhyabhi-portfolio.vercel.app/)
+- **Email:** meabhishek1512@gmail.com
 
 Feel free to explore my repositories and reach out if you have any questions, collaboration ideas, or just want to chat about web development!
 
